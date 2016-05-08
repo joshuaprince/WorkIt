@@ -1,0 +1,79 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "HeckaHackaHomiesUCD",
+    "enableMultiJS": false,
+    "longName": "WORK IT",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/popsicle",
+                "name": "popsicle",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/banana",
+                "name": "banana",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/apple",
+                "name": "apple",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/pizza",
+                "name": "pizza",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/mm",
+                "name": "mm",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/ice_cream",
+                "name": "ice_cream",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/hamburger",
+                "name": "hamburger",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/carrot",
+                "name": "carrot",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo",
+                "menuIcon": true,
+                "name": "logo",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WORK IT",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4040b7d9-7255-4723-974c-b6b8ff8d4968",
+    "versionLabel": "0.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
